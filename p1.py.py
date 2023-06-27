@@ -1,0 +1,1 @@
+print("why indians are more intelligent")
